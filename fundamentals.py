@@ -52,7 +52,16 @@ git clone ../remove_repo.git
 VIEWING INFORMATION ABOUT THE REMOTE REPOSITORY
 
 git remote -v
-git branch -a 
+git branch -a
 
+PUSHING CHANGES
+
+git diff
+git status
+git add -A
+git commit -m "Modified"
+
+git pull origin master
+git push origin master
 
 """"
