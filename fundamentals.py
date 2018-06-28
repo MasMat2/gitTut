@@ -42,4 +42,17 @@ git add -A
 git commit -m ""
 git status
 git log
+
+CLONING A REMOTE REPO
+
+git clone <url> <where to clone>
+
+git clone ../remove_repo.git
+
+VIEWING INFORMATION ABOUT THE REMOTE REPOSITORY
+
+git remote -v
+git branch -a
+
+
 """"
