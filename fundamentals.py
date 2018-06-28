@@ -52,7 +52,7 @@ git clone ../remove_repo.git
 VIEWING INFORMATION ABOUT THE REMOTE REPOSITORY
 
 git remote -v
-git branch -a
+git branch -a 
 
 
 """"
